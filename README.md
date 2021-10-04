@@ -1,6 +1,6 @@
 # RedBelt Security Test
 
-**Web app developed with CRUD using Laravel and Materialize frameworks**
+**Web app with CRUD developed using Laravel and Materialize frameworks**
 
 ## Quick Setup
 
